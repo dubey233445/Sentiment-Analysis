@@ -174,9 +174,9 @@ This project gave me hands-on exposure to AI, ML, and NLP — and more important
 ## 🧩 Author
 **Ashish Dubey**  
 AI Intern @ Growfinix Technology  
-📧 [your-email@example.com]  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-🐙 [GitHub Profile](https://github.com/your-username)
+📧 [dubeyashish8957@gmail.com]  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ashish-dubey-8904a52b3/)  
+🐙 [GitHub Profile](https://github.com/dubey233445)
 
 ---
 
