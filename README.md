@@ -124,8 +124,8 @@ Example:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/amazon-sentiment-analysis.git
-cd amazon-sentiment-analysis
+git https://github.com/dubey233445/Sentiment-Analysis.git
+cd Sentiment-Analysis
 ```
 
 ### 2. Install Dependencies
@@ -135,12 +135,12 @@ pip install -r requirements.txt
 
 ### 3. Run the Notebook
 ```bash
-jupyter notebook sentiment_analysis.ipynb
+jupyter notebook sentiment.ipynb
 ```
 
 Or run the script:
 ```bash
-python sentiment_analysis.py
+python App2.py
 ```
 
 ---
